@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh; /* Ensures the background extends with content */
+  background-image: linear-gradient(#D8C7FF, #19006C); /* Gradient background */
+  font-family: 'Poppins', sans-serif; /* Ensure fallback font-family */
+}
